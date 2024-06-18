@@ -1,0 +1,21 @@
+{
+    "name": "degit023/test-first-l",
+    "description": "first pack",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "degit023\\parser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bulat Ziatdinov",
+            "email": "bulat-ziatd1nov@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
