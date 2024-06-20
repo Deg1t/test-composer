@@ -6,6 +6,9 @@ namespace degit023\parser;
  *
  * @author Student <notrealemail@gmail.com>
  */
+
+
+//new coment for test
 class Parser implements ParserInterface
 {
     /**
@@ -29,4 +32,5 @@ class Parser implements ParserInterface
 
         return $strings[1];
     }
+
 }
