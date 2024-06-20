@@ -33,4 +33,10 @@ class Parser implements ParserInterface
         return $strings[1];
     }
 
+    public function test(){
+        if(1){
+            $a =4;
+        }
+    }
+
 }
